@@ -607,6 +607,10 @@ footer {
     .sizes {
         display: none;
     }
+
+    .video {
+        display: none;
+    }
 }
 
 a {
